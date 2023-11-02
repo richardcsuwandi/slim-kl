@@ -5,10 +5,11 @@ This repository contains the code and data used in the paper ["Sparsity-Aware Le
 
 ## Citation
 ```
+
 ```
 
 ## Example
-To see an example, please run the `main` file. To change the data set, simply uncomment one of the listed data sets and comment the others, e.g., for the `Electricity` data set,
+To see an example, please run the `main.m` file. To change the data set, simply uncomment one of the listed data sets and comment the others, e.g., for the `unemployment` data set,
 ```
 file_name = 'unemployment';
 % file_name = 'CO2';
