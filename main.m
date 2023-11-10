@@ -8,15 +8,15 @@ javaaddpath('/Users/richardcsuwandi/Downloads/mosek/10.0/tools/platform/osx64x86
 addpath('/Users/richardcsuwandi/Downloads/mosek/10.0/toolbox/r2017a')
 
 % Read in data & some general setup
-% file_name = 'unemployment';
+file_name = 'unemployment';
 % file_name = 'CO2';
-file_name = 'ECG_signal';
+% file_name = 'ECG_signal';
 % file_name = 'ale80';
 % file_name = 'airfoil600';
 % file_name = 'cccp1000';
-% file_name = 'toxicity436'
-% file_name = 'concrete824'
-% file_name = 'water800'
+% file_name = 'toxicity436';
+% file_name = 'concrete824';
+% file_name = 'water800';
 % file_name = 'wine1279';
 
 disp(['Simulation on ',file_name]);
