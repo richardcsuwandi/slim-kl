@@ -16,9 +16,9 @@ file_name = 'unemployment';
 % file_name = 'ale80';
 % file_name = 'airfoil600';
 % file_name = 'cccp1000';
-% file_name = 'toxicity436'
-% file_name = 'concrete824'
-% file_name = 'water800'
+% file_name = 'toxicity436';
+% file_name = 'concrete824';
+% file_name = 'water800';
 % file_name = 'wine1279';
 
 disp(['Simulation on ',file_name]);
