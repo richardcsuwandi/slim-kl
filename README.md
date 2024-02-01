@@ -1,6 +1,6 @@
 # Sparse LInear Multiple Kernel Learning (SLIM-KL)
 
-This repository contains the code and data used in the paper ["Sparsity-Aware Learning for Linear Multiple Kernel"]().
+This repository contains the code and data used in the paper ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://arxiv.org/abs/2309.08201).
 
 ## Citation
 ```
