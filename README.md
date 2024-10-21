@@ -4,7 +4,12 @@ This repository contains the code and data used in the paper ["Sparsity-Aware Di
 
 ## Citation
 ```
-
+@article{suwandi2023gaussian,
+  title={Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel},
+  author={Richard Cornelius Suwandi and Zhidi Lin and Feng Yin and Zhiguo Wang and Sergios Theodoridis},
+  journal={arXiv preprint arXiv:2309.08201},
+  year={2023}
+}
 ```
 
 ## Example
